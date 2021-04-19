@@ -1,6 +1,6 @@
 # ~~Big Sur Dynamic Wallpaper on Linux~~
 
-# Big Sur Dynamic Wallpaper on Ubuntu 20.04
+# Big Sur Dynamic Wallpaper on Ubuntu
 
 The world of open source may seem intimidating, but there’s more to it than meets the eye. Customizing your Linux system may seem like a daunting task at first, but with these simple steps, you will be up and running in no time.
 
@@ -8,10 +8,14 @@ MacOS Big Sur has a breathtaking dynamic wallpaper and there’s no reason for s
 
 Here’s how to get macOS Big Sur-like dynamic wallpaper on your Gnome desktop.
 
-# Installation for Ubuntu 20.04
+# Installation for Ubuntu
 ### Material required:
-> 1. Ubuntu 20.04 Desktop.  
+> 1. Ubuntu Desktop.  
 > 2. Internet connection.
+
+### .xml files
+- focal.xml (Ubuntu 20.04)
+- groovy.xml (Ubuntu 20.10)
 
 ### 1. Clone the resource
 ```
@@ -20,7 +24,7 @@ git clone https://github.com/eallion/Big-Sur-Ubuntu.git
 ```
 
 ### 2. Change the file path
-My username is `eallion`, you must change `eallion` to your username in file`focal.xml`.
+My username is `eallion`, you must change `eallion` to your username in .xml file.
 If you are`alex`, you can change it in the terminal:
 ```
 cd Big-Sur-Ubuntu
