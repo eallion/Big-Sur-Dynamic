@@ -25,7 +25,7 @@ cd ~/Pictures
 git clone https://github.com/eallion/Big-Sur-Ubuntu.git
 ```
 
-### 2. Change the file path
+### 2. Change the file path (Important)
 My username is `eallion`, you must change `eallion` to your username in .xml file.
 If you are`alex`, you can change it in the terminal:
 ```
