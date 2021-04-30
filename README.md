@@ -16,6 +16,7 @@ Here’s how to get macOS Big Sur-like dynamic wallpaper on your Gnome desktop.
 ### .xml files
 - focal.xml (Ubuntu 20.04)
 - groovy.xml (Ubuntu 20.10)
+- f33.xml (Fedora 33 from Maxmud Fayziev)
 
 ### 1. Clone the resource
 ```
